@@ -1,4 +1,8 @@
-## Hello world! I'm ohniluap, Beginning student in programming. 
+## Hello world! I'm Paulo Roberto.
+
+👀 I'm interested in evolving professionally as a developer and learn as much as possible in my trajectory. 
+🌱 I’m currently learning Python, HTML, CSS, JavaScript, Java and Kotlin.
+
 <div> 
   <a href ="https://github.com/ohniluap">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ohniluap&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,4 +22,3 @@
   <a href="https://www.linkedin.com/in/paulo-roberto-a0a52816b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/ohniluap/ohniluap/blob/output/github-contribution-grid-snake.svg)
