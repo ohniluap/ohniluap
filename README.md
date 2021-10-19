@@ -1,8 +1,9 @@
 ## Hello! I'm Paulo Roberto.
 
 👀 I'm interested in evolving professionally as a developer and learn as much as possible in my trajectory. 
-🌱 I’m currently learning Python, HTML, CSS, JavaScript, Java and Kotlin.
 
+🌱 I’m currently learning Python, HTML, CSS, JavaScript, Java and Kotlin.
+##
 <div> 
   <a href ="https://github.com/ohniluap">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ohniluap&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
