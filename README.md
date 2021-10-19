@@ -1,6 +1,6 @@
 ## Hello! I'm Paulo Roberto.
 
-👀 I'm interested in evolving professionally as a developer and learn as much as possible in my trajectory. 
+👀 I'm interested in evolving professionally as a developer and learn as much as possible along this path.
 
 🌱 I’m currently learning Python, HTML, CSS, JavaScript, Java and Kotlin.
 ##
