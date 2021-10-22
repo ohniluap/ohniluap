@@ -2,7 +2,7 @@
 
 👀 I'm interested in evolving professionally as a developer and learn as much as possible along this path.
 
-🌱 I’m currently learning Python, HTML, CSS, JavaScript, Java and Kotlin.
+🌱 I’m currently learning Python and Machine Learning. 
 ##
 <div> 
   <a href ="https://github.com/ohniluap">
